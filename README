@@ -1,4 +1,4 @@
-I have implemented all extra credit features.
+I have implemented all extra credit features except for custom shaders.
 
 There are a few possible changes I could have made, such as:
 1. Saving all relevant data to a binary/json file locally on the device or online to a database.
