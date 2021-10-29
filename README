@@ -1,0 +1,9 @@
+I have implemented all extra credit features.
+
+There are a few possible changes I could have made, such as:
+1. Saving all relevant data to a binary/json file locally on the device or online to a database.
+2. Currently the leaderboards update after every game, could have saved a highscore and used above method for permenant saving.
+3. Smarter rock/ball behavior
+4. Possibly a few other things that I am forgetting right now :)
+
+I am happy to answer any further questions or concerns you have.
